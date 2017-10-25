@@ -17,6 +17,7 @@ public class JavaApplication8 {
     public static void main(String[] args) {
         // TODO code application logic here
         int suma1 = 23 + 455;
+        int suma2 = 543;
     }
     
     
